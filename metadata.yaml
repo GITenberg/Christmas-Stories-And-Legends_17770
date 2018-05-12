@@ -1,0 +1,32 @@
+_repo: Christmas-Stories-And-Legends_17770
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Curtiss, Phebe A.
+    gutenberg_agent_id: '25780'
+    url: http://www.gutenberg.org/2009/agents/25780
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2006-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas stories'
+- !lcc 'PZ'
+tableOfContents: The Legend of the "White Gifts" -- Her Birthday Dream -- The Fir
+  Tree -- The Little Match Girl -- Little Piccola -- The Shepherd's Story -- The Story
+  of Christmas -- The Legend of the Christmas Tree -- Little Jean -- How the Fir Tree
+  Became the Christmas Tree -- The Magi in the West and Their Search for the Christ
+  -- Little Gretchen and the Wooden Shoe -- The Little Shepherd -- Babouscka -- The
+  Boy with the Box -- The Worker in Sandal wood -- The Shepherd Who Didn't Go -- Paulina's
+  Christmas -- Unto Us a Child Is Born -- The Star.
+title: Christmas Stories And Legends
+url: http://www.gutenberg.org/ebooks/17770
