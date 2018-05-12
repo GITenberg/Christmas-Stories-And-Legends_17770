@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17770#Christmas-Stories-And-Legends
 gutenberg_bookshelf: Christmas
 gutenberg_issued: '2006-02-16'
 gutenberg_type: Text
